@@ -64,15 +64,15 @@ nav ul li a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 300%;
-  max-width: 800px;
+  width: 100%;
+  max-width: 100%;
   margin: 20px auto; /* Căn giữa */
 }
 
 .flex-container > div {
   flex: 1; /* Chia đều không gian */
   text-align: center;
-  line-height: 175px;
+  line-height: 75px;
   font-size: 30px;
   padding: 20px;
 }
